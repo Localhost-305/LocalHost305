@@ -1,0 +1,12 @@
+[submodule "localhost-database"]
+	path = localhost-database
+	url = https://github.com/Localhost-305/localhost-database
+    branch = main
+[submodule "localhost-frontend"]
+	path = localhost-frontend
+	url = https://github.com/Localhost-305/localhost-frontend
+    branch = main
+[submodule "localhost-backend"]
+	path = localhost-backend
+	url = https://github.com/Localhost-305/localhost-backend
+    branch = main

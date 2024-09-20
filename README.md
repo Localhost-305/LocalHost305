@@ -17,8 +17,8 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 ![Modelagem](https://github.com/user-attachments/assets/b74c1529-06d5-449f-a6d0-b7909d026f00)
 
 <details>
-  
-![MER-v2](https://github.com/user-attachments/assets/f87c3f54-8775-4f15-9206-f4366a4b91c8)
+
+![MER](https://github.com/Localhost-305/localhost-database/blob/dev/MER/MER.png)
 
 </details>
 

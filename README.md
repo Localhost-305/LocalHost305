@@ -1,14 +1,21 @@
-# LocalHost305
+![Localhost API - Logo](https://github.com/user-attachments/assets/5d04e4d3-64c1-4890-b756-604a49fe3311)
 
-Objetivo
+
+![Objetivo](https://github.com/user-attachments/assets/c4fca693-63f8-4329-a0e8-4b103d9ab544)
 
 O objetivo da aplicação é desenvolver um dashboard interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. A plataforma permitirá uma análise em tempo real de métricas como número de candidatos, tempo médio de contratação e custos, gerando relatórios dinâmicos que apoiam decisões estratégicas. Além disso, os usuários poderão personalizar relatórios conforme suas necessidades, filtrando informações por critérios relevantes. A ferramenta visa otimizar o processo de recrutamento, identificando padrões e tendências para melhorar a eficiência e alocação de recursos.
 
 
-## Backlog
+![Backlog](https://github.com/user-attachments/assets/94656158-8e74-4cf6-a2fc-fd1e2f8a6808)
+
+<details>
 
 
-## Modelagem
+</details>
+
+
+![Modelagem](https://github.com/user-attachments/assets/b74c1529-06d5-449f-a6d0-b7909d026f00)
+
 <details>
   
 ![MER-v2](https://github.com/user-attachments/assets/f87c3f54-8775-4f15-9206-f4366a4b91c8)
@@ -16,7 +23,8 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 </details>
 
 
-## Time
+![Time](https://github.com/user-attachments/assets/a3fa4a08-00aa-4f95-9947-5e6453eade2a)
+
 | Fotos | Aluno             | Função       | GitHub       | LinkedIn       |
 |-------|-------------------|--------------|--------------|-----------------|
 |       | Lucas Oliveira     | Product Owner| [Link](#)    | [Link](#)       |
@@ -28,7 +36,4 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 |       | Vitor Lima        | Developer    | [Link](#)    | [Link](#)       |
 
 
-
-Tecnologias
-
-
+![Tecnologias](https://github.com/user-attachments/assets/74af18c3-3b53-48cd-b0eb-c0141b473b91)

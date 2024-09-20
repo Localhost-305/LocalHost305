@@ -6,6 +6,12 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 
 Backlog
+<details>
+  
+![MER-v2](https://github.com/user-attachments/assets/f87c3f54-8775-4f15-9206-f4366a4b91c8)
+
+</details>
+
 
 
 Modelagem

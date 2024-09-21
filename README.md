@@ -67,15 +67,15 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 ![Time](https://github.com/user-attachments/assets/a3fa4a08-00aa-4f95-9947-5e6453eade2a)
 
-| Fotos | Aluno             | Função       | GitHub       | LinkedIn       |
-|-------|-------------------|--------------|--------------|-----------------|
-|       | Lucas Oliveira     | Product Owner| [Link](#)    | [Link](#)       |
-|       | Lukas Fernando     | Scrum Master | [Link](#)    | [Link](#)       |
-|       | Danilo Verginio    | Developer    | [Link](#)    | [Link](#)       |
-|       | Davi Gusmão       | Developer    | [Link](#)    | [Link](#)       |
-|       | Gabriel D'Epiro   | Developer    | [Link](#)    | [Link](#)       |
-|       | Laroy Prado       | Developer    | [Link](#)    | [Link](#)       |
-|       | Vitor Lima        | Developer    | [Link](#)    | [Link](#)       |
+| Aluno             | Função       | GitHub       | LinkedIn       |
+|-------------------|--------------|--------------|-----------------|
+| Lucas Oliveira     | Product Owner| [GitHub](https://github.com/LucasOliveira321)    | [LinkedIn](https://www.linkedin.com/in/lucas-augusto-oliveira/)       |
+| Lukas Fernando     | Scrum Master | [GitHub](https://github.com/LukasFernando)    | [LinkedIn](#)       |
+| Danilo Verginio    | Developer    | [GitHub](https://github.com/Daniloel)    | [LinkedIn](https://www.linkedin.com/in/daniloverginio)       |
+| Davi Gusmão       | Developer    | [GitHub](https://github.com/Davign10)    | [LinkedIn](https://br.linkedin.com/in/dgusm%C3%A3o)       |
+| Gabriel D'Epiro   | Developer    | [GitHub](https://github.com/GabrielDepiro)    | [LinkedIn](https://www.linkedin.com/in/gabriel-depiro/)       |
+| Laroy Prado       | Developer    | [GitHub](https://github.com/laroyprado)    | [LinkedIn](https://br.linkedin.com/in/laroyprado)       |
+| Vitor Lima        | Developer    | [GitHub](https://github.com/VilRL)    | [LinkedIn](https://www.linkedin.com/in/vitor-lima-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)       |
 
 
 ![Tecnologias](https://github.com/user-attachments/assets/74af18c3-3b53-48cd-b0eb-c0141b473b91)

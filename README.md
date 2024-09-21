@@ -8,7 +8,7 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 ![Backlog](https://github.com/user-attachments/assets/94656158-8e74-4cf6-a2fc-fd1e2f8a6808)
 
-Sprint 1
+**Sprint 1**
 <details>
 
 | Prioridade | História                                                                                              | Jira          |
@@ -24,7 +24,7 @@ Sprint 1
 
 </details>
 
-Sprint 2
+**Sprint 2**
 <details>
 
 | Prioridade | História                                                                                              | Jira          |
@@ -35,7 +35,7 @@ Sprint 2
 
 </details>
 
-Sprint 3
+**Sprint 3**
 <details>
 
 | Prioridade | História                                                                                          | Jira          |
@@ -45,7 +45,7 @@ Sprint 3
 
 </details>
 
-Sprint 4
+**Sprint 4**
 <details>
 
 | Prioridade | História                                                                                          | Jira          |

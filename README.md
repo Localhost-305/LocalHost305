@@ -8,8 +8,50 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 ![Backlog](https://github.com/user-attachments/assets/94656158-8e74-4cf6-a2fc-fd1e2f8a6808)
 
+Sprint 1
 <details>
 
+| Prioridade | História                                                                                              |
+|------------|-------------------------------------------------------------------------------------------------------|
+| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                 |
+|            | - Indicador com o número de candidatos por vagas                                                    |
+|            | - Um card com o tempo médio de contratação                                                          |
+|            | - Filtrar por período                                                                                 |
+| 2          | Funcionalidade de import dos dados (ETL).                                                            |
+| 3          | Criação do MER e do script para o banco de dados.                                                    |
+| 4          | Como usuário de RH quero acessar a plataforma via login de e-mail e senha.                          |
+| 5          | Inserir o Swagger (API Documentation) no backend.                                                   |
+
+</details>
+
+Sprint 2
+<details>
+  
+| Prioridade | História                                                                                              |
+|------------|-------------------------------------------------------------------------------------------------------|
+| 1          | Filtrar e segmentar os dados por departamento e tipo de vaga.                                       |
+| 2          | Monitorar os custos associados ao processo seletivo.                                                |
+| 3          | Card com a taxa de retenção de novos funcionários.                                                  |
+
+</details>
+
+Sprint 3
+<details>
+
+| Prioridade | História                                                                                          | Sprint   |
+|------------|---------------------------------------------------------------------------------------------------|----------|
+| 1          | Liberar o acesso de acordo com o cargo ou algum outro critério. Se sim, quais cargos/critérios são necessários? | Sprint 1 |
+| 2          | Identificar tendências e padrões no processo de seleção.                                          | Sprint 2 |
+
+</details>
+
+Sprint 4
+<details>
+
+| Prioridade | História                                                                                          | Sprint   |
+|------------|---------------------------------------------------------------------------------------------------|----------|
+| 1          | Modificar de forma dinâmica as permissões de acesso dos usuários.                                 | Sprint 1 |
+| 2          | Exportar em PDF e CSV dos dados no Dashboard.                                                    | Sprint 2 |
 
 </details>
 

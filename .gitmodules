@@ -10,3 +10,6 @@
 	path = localhost-backend
 	url = https://github.com/Localhost-305/localhost-backend
     branch = main
+[submodule "localhost-etl"]
+	path = localhost-etl
+	url = https://github.com/Localhost-305/localhost-etl

@@ -29,9 +29,9 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 | Prioridade | História                                                                                              | Jira          |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|
-| 1          | Filtrar e segmentar os dados por departamento e tipo de vaga.                                       | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4) |
-| 2          | Monitorar os custos associados ao processo seletivo.                                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6) |
-| 3          | Card com a taxa de retenção de novos funcionários.                                                  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5) |
+| 1          | Como usuário de RH, quero liltrar e segmentar os dados por departamento e tipo de vaga.                                       | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4) |
+| 2          | Preciso monitorar os custos associados ao processo seletivo.                                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6) |
+| 3          | No dashbaord quero visualizar um card com a taxa de retenção de novos funcionários.                                                  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5) |
 
 </details>
 
@@ -40,8 +40,8 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 | Prioridade | História                                                                                          | Jira          |
 |------------|---------------------------------------------------------------------------------------------------|---------------|
-| 1          | Liberar o acesso de acordo com o cargo ou algum outro critério. Se sim, quais cargos/critérios são necessários? | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-8) |
-| 2          | Identificar tendências e padrões no processo de seleção.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-7) |
+| 1          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo ou algum outro critério. Se sim, quais cargos/critérios são necessários? | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-8) |
+| 2          | Quero poder analisar as tendências e padrões no processo de seleção.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-7) |
 
 </details>
 
@@ -50,8 +50,8 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 | Prioridade | História                                                                                          | Jira          |
 |------------|---------------------------------------------------------------------------------------------------|---------------|
-| 1          | Modificar de forma dinâmica as permissões de acesso dos usuários.                                 | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) |
-| 2          | Exportar em PDF e CSV dos dados no Dashboard.                                                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-9) |
+| 1          | Como usuário de RH, quero modificar de forma dinâmica as permissões de acesso dos usuários.                                 | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) |
+| 2          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard.                                                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-9) |
 
 </details>
 

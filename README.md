@@ -13,7 +13,7 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 | Prioridade | História                                                                                              | Jira          |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|
-| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                 | [Ver no Jira]([Ver no Jira](https://localhost305.atlassian.net/browse/LOC-1)) |
+| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                 | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-1)) |
 |            | - Indicador com o número de candidatos por vagas                                                    |               |
 |            | - Um card com o tempo médio de contratação                                                          |               |
 |            | - Filtrar por período                                                                                 |               |

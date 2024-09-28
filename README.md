@@ -60,7 +60,7 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 <details>
 
-![MER](https://github.com/Localhost-305/localhost-database/blob/dev/MER/MER.png)
+![MER](https://github.com/Localhost-305/localhost-database/blob/main/MER/MER.png)
 
 </details>
 

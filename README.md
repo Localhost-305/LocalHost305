@@ -5,6 +5,7 @@
 
 O objetivo da aplicação é desenvolver um dashboard interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. A plataforma permitirá uma análise em tempo real de métricas como número de candidatos, tempo médio de contratação e custos, gerando relatórios dinâmicos que apoiam decisões estratégicas. Além disso, os usuários poderão personalizar relatórios conforme suas necessidades, filtrando informações por critérios relevantes. A ferramenta visa otimizar o processo de recrutamento, identificando padrões e tendências para melhorar a eficiência e alocação de recursos.
 
+[Screencast from 2024-09-29 22-07-52.webm](https://github.com/user-attachments/assets/030b4637-d812-46d1-9c0b-a8343941f8b8)
 
 ![Backlog](https://github.com/user-attachments/assets/94656158-8e74-4cf6-a2fc-fd1e2f8a6808)
 
@@ -79,3 +80,4 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 
 ![Tecnologias](https://github.com/user-attachments/assets/74af18c3-3b53-48cd-b0eb-c0141b473b91)
+

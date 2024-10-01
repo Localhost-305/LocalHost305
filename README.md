@@ -30,9 +30,10 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 | Prioridade | História                                                                                              | Jira          |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|
-| 1          | Como usuário de RH, quero liltrar e segmentar os dados por departamento e tipo de vaga.                                       | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4) |
-| 2          | Preciso monitorar os custos associados ao processo seletivo.                                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6) |
-| 3          | No dashbaord quero visualizar um card com a taxa de retenção de novos funcionários.                                                  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5) |
+| 1          | Como usuário de RH, quero filtrar e segmentar todos os dados por tipo de vaga, na tela de dashboard.  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4) |
+| 2          | Preciso monitorar os custos associados ao processo seletivo.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6) |
+| 3          | No dashboard quero visualizar um card com a taxa de retenção de novos funcionários.                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5) |
+| 4          | Como usuário quero ter um layout responsivo para acessar via celular nas reuniões.                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-43) |
 
 </details>
 

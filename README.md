@@ -7,13 +7,34 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 
 ![Requisitos](https://github.com/user-attachments/assets/7c923995-da65-4006-b748-71be1a5f5b51)
 
-Adicione aqui os requisitos...
-
+✅ Requisito 1 - Dashboard para visualizar os indicadores </br>
+✅ Requisito 2 - Importar os dados com excel </br>
+✅ Requisito 3 - Login via e-mail e senha com segurança </br>
+✅ Requisito 4 – Documentação da API </br>
+✅ Requisito 5 - Filtrar e segmentar os dados por vaga </br>
+✅ Requisito 6 - Monitorar os custos associados ao processo seletivo </br>
+✅ Requisito 7 - Taxa de retenção de novos funcionários </br>
+✅ Requisito 8 - Layout responsivo para acessar via celular </br>
+✅ Requisito 9 - Alterar de forma dinâmica as permissões </br>
+✅ Requisito 10 - Gráficos com previsão de tendências </br>
+✅ Requisito 11 - Exportar em PDF e CSV dos dados no Dashboard </br>
+</br>
 
 ![PropostaDeSolucao](https://github.com/user-attachments/assets/5dc4a1e7-4e19-429a-91ce-7b824780c50f)
 
-Adicione aqui a proposta de solução...
-
+Nossa proposta envolve o desenvolvimento de um painel interativo que centraliza as principais informações do processo de recrutamento. Esse painel oferecerá insights valiosos e permitirá uma análise detalhada e customizada das fases de seleção. As principais entregas. <br/>
+    •  Dashboard para visualizar os indicadores <br/>
+    •  Importar os dados com excel <br/>
+    •  Login via e-mail e senha com segurança <br/>
+    •  Documentação da API <br/>
+    •  Filtrar e segmentar os dados por vaga <br/>
+    •  Monitorar os custos associados ao processo seletivo <br/>
+    •  Taxa de retenção de novos funcionários <br/>
+    •  Layout responsivo para acessar via celular <br/>
+    •  Alterar de forma dinâmica as permissões <br/>
+    •  Gráficos com previsão de tendências <br/>
+    •  Exportar em PDF e CSV dos dados no Dashboard <br/>
+Essa solução oferece uma visão clara e abrangente do processo seletivo, permitindo uma tomada de decisão estratégica, melhor alocação de recursos e agilidade operacional.
 
 ![Produto](https://github.com/user-attachments/assets/350e2bd9-b395-4581-a352-d723fa62e332)
 

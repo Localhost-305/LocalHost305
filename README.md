@@ -32,14 +32,14 @@ Adicione aqui a proposta de solução...
 
 | Prioridade | História                                                                                              | Jira          |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|
-| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                 | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-1)) |
-|            | - Indicador com o número de candidatos por vagas                                                    |               |
-|            | - Um card com o tempo médio de contratação                                                          |               |
+| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-1)) |
+|            | - Indicador com o número de candidatos por vagas                                                      |               |
+|            | - Um card com o tempo médio de contratação                                                            |               |
 |            | - Filtrar por período                                                                                 |               |
-| 2          | Funcionalidade de import dos dados (ETL).                                                            | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-2) |
-| 3          | Criação do MER e do script para o banco de dados.                                                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-19) |
-| 4          | Como usuário de RH quero acessar a plataforma via login de e-mail e senha.                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-3) |
-| 5          | Inserir o Swagger (API Documentation) no backend.                                                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-23) |
+| 2          | Funcionalidade de import dos dados (ETL).                                                             | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-2)  |
+| 3          | Criação do MER e do script para o banco de dados.                                                     | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-19) |
+| 4          | Como usuário de RH quero acessar a plataforma via login de e-mail e senha.                            | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-3)  |
+| 5          | Inserir o Swagger (API Documentation) no backend.                                                     | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-23) |
 
 </details>
 
@@ -48,10 +48,12 @@ Adicione aqui a proposta de solução...
 
 | Prioridade | História                                                                                              | Jira          |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|
-| 1          | Como usuário de RH, quero filtrar e segmentar todos os dados por tipo de vaga, na tela de dashboard.  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4) |
-| 2          | Preciso monitorar os custos associados ao processo seletivo.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6) |
-| 3          | No dashboard quero visualizar um card com a taxa de retenção de novos funcionários.                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5) |
-| 4          | Como usuário quero ter um layout responsivo para acessar via celular nas reuniões.                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-43) |
+| 1          | Como usuário de RH, quero filtrar e segmentar todos os dados por tipo de vaga, na tela de dashboard.  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4)  |
+| 2          | Preciso monitorar os custos associados ao processo seletivo.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6)  |
+| 3          | No dashboard quero visualizar um card com a taxa de retenção de novos funcionários.                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5)  |
+| 4          | Quero ter uma aplicação estável e confiavel (DevOps).                                                 | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-48) |
+| 5          | Como usuário quero ter um layout responsivo para acessar via celular nas reuniões.                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-43) |
+| 6          | Melhorar critério de senha.                                                                           | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-45) |
 
 </details>
 
@@ -61,7 +63,7 @@ Adicione aqui a proposta de solução...
 | Prioridade | História                                                                                          | Jira          |
 |------------|---------------------------------------------------------------------------------------------------|---------------|
 | 1          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo ou algum outro critério. Se sim, quais cargos/critérios são necessários? | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-8) |
-| 2          | Quero poder analisar as tendências e padrões no processo de seleção.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-7) |
+| 2          | Quero poder analisar as tendências e padrões no processo de seleção.                              | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-7) |
 
 </details>
 
@@ -70,8 +72,8 @@ Adicione aqui a proposta de solução...
 
 | Prioridade | História                                                                                          | Jira          |
 |------------|---------------------------------------------------------------------------------------------------|---------------|
-| 1          | Como usuário de RH, quero modificar de forma dinâmica as permissões de acesso dos usuários.                                 | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) |
-| 2          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard.                                                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-9) |
+| 1          | Como usuário de RH, quero modificar de forma dinâmica as permissões de acesso dos usuários.       | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) |
+| 2          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard.                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-9) |
 
 </details>
 
@@ -89,13 +91,13 @@ Adicione aqui a proposta de solução...
 
 | Aluno             | Função       | GitHub       | LinkedIn       |
 |-------------------|--------------|--------------|-----------------|
-| Lucas Oliveira     | Product Owner| [GitHub](https://github.com/LucasOliveira321)    | [LinkedIn](https://www.linkedin.com/in/lucas-augusto-oliveira/)       |
-| Lukas Fernando     | Scrum Master | [GitHub](https://github.com/LukasFernando)    | [LinkedIn](#)       |
-| Danilo Verginio    | Developer    | [GitHub](https://github.com/Daniloel)    | [LinkedIn](https://www.linkedin.com/in/daniloverginio)       |
-| Davi Gusmão       | Developer    | [GitHub](https://github.com/Davign10)    | [LinkedIn](https://br.linkedin.com/in/dgusm%C3%A3o)       |
-| Gabriel D'Epiro   | Developer    | [GitHub](https://github.com/GabrielDepiro)    | [LinkedIn](https://www.linkedin.com/in/gabriel-depiro/)       |
-| Laroy Prado       | Developer    | [GitHub](https://github.com/laroyprado)    | [LinkedIn](https://br.linkedin.com/in/laroyprado)       |
-| Vitor Lima        | Developer    | [GitHub](https://github.com/VilRL)    | [LinkedIn](https://www.linkedin.com/in/vitor-lima-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)       |
+| Lucas Oliveira    | Product Owner| [GitHub](https://github.com/LucasOliveira321) | [LinkedIn](https://www.linkedin.com/in/lucas-augusto-oliveira/)                                                                           |
+| Lukas Fernando    | Scrum Master | [GitHub](https://github.com/LukasFernando)    | [LinkedIn](#)                                                                                                                             |
+| Danilo Verginio   | Developer    | [GitHub](https://github.com/Daniloel)         | [LinkedIn](https://www.linkedin.com/in/daniloverginio)                                                                                    |
+| Davi Gusmão       | Developer    | [GitHub](https://github.com/Davign10)         | [LinkedIn](https://br.linkedin.com/in/dgusm%C3%A3o)                                                                                       |
+| Gabriel D'Epiro   | Developer    | [GitHub](https://github.com/GabrielDepiro)    | [LinkedIn](https://www.linkedin.com/in/gabriel-depiro/)                                                                                   |
+| Laroy Prado       | Developer    | [GitHub](https://github.com/laroyprado)       | [LinkedIn](https://br.linkedin.com/in/laroyprado)                                                                                         |
+| Vitor Lima        | Developer    | [GitHub](https://github.com/VilRL)            | [LinkedIn](https://www.linkedin.com/in/vitor-lima-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
 
 ![Tecnologias](https://github.com/user-attachments/assets/74af18c3-3b53-48cd-b0eb-c0141b473b91)

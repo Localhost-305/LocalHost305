@@ -84,7 +84,7 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 | Prioridade | História                                                                                          | Jira          | Requisitos                |
 |------------|---------------------------------------------------------------------------------------------------|---------------|---------------------------|
 | 1          | Precisa melhorar o import dos dados validando a integridade dos mesmos.                           | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-47) | [Requisito 2](#requisitos) |
-| 2          | Quero analisar pelo menos duas tendências e padrões no processo de seleção, e conseguir filtrar por cargo | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) | [Requisitos](#requisitos) |
+| 2          | Quero analisar pelo menos duas tendências e padrões no processo de seleção, e conseguir filtrar por cargo | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) | [Requisito 10](#requisitos) |
 | 3          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo e poder alterar a forma dinâmica as permissões | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-8) | [Requisito 9](#requisitos) |
 | 4          | Como usuário preciso ter uma senha segura.                                                        | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-45) | [Requisito 3](#requisitos) |
 

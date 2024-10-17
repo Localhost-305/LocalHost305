@@ -20,6 +20,7 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 ✅ Requisito 9 - Alterar de forma dinâmica as permissões </br>
 ✅ Requisito 10 - Gráficos com previsão de tendências </br>
 ✅ Requisito 11 - Exportar em PDF e CSV dos dados no Dashboard </br>
+✅ Requisito 12 - Ter uma aplicação confiável </br>
 </br>
 
 ![PropostaDeSolucao](https://github.com/user-attachments/assets/5dc4a1e7-4e19-429a-91ce-7b824780c50f)
@@ -55,14 +56,12 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 
 | Prioridade | História                                                                                              | Jira          | Requisitos                |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|---------------------------|
-| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-1)  | [Requisitos](#requisitos) |
+| 1          | Como usuário de RH, para acessar o dashboard e visualizar pelo menos 3 indicadores:                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-1)  | [Requisito 1](#requisitos) |
 |            | - Indicador com o número de candidatos por vagas                                                      |               |                           |
 |            | - Um card com o tempo médio de contratação                                                            |               |                           |
 |            | - Filtrar por período                                                                                 |               |                           |
-| 2          | Funcionalidade de import dos dados (ETL).                                                             | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-2)  | [Requisitos](#requisitos) |
-| 3          | Criação do MER e do script para o banco de dados.                                                     | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-19) | [Requisitos](#requisitos) |
-| 4          | Como usuário de RH quero acessar a plataforma via login de e-mail e senha.                            | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-3)  | [Requisitos](#requisitos) |
-| 5          | Inserir o Swagger (API Documentation) no backend.                                                     | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-23) | [Requisitos](#requisitos) |
+| 2          | Funcionalidade de import dos dados (ETL).                                                             | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-2)  | [Requisito 2](#requisitos) |
+| 3          | Como usuário de RH quero acessar a plataforma via login de e-mail e senha.                            | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-3)  | [Requisito 3](#requisitos) |
 
 </details>
 
@@ -71,12 +70,11 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 
 | Prioridade | História                                                                                              | Jira          | Requisitos                |
 |------------|-------------------------------------------------------------------------------------------------------|---------------|---------------------------|
-| 1          | Como usuário de RH, quero filtrar e segmentar todos os dados por tipo de vaga, na tela de dashboard.  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4)  | [Requisitos](#requisitos) |
-| 2          | Preciso monitorar os custos associados ao processo seletivo.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6)  | [Requisitos](#requisitos) |
-| 3          | No dashboard quero visualizar um card com a taxa de retenção de novos funcionários.                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5)  | [Requisitos](#requisitos) |
-| 4          | Quero ter uma aplicação estável e confiável (DevOps).                                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-48)  | [Requisitos](#requisitos) |
-| 5          | Como usuário quero ter um layout responsivo para acessar via celular nas reuniões.                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-43) | [Requisitos](#requisitos) |
-| 6          | Melhorar critério de senha.                                                                           | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-45) | [Requisitos](#requisitos) |
+| 1          | Como usuário de RH, quero filtrar e segmentar todos os dados por tipo de vaga, na tela de dashboard.  | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-4)  | [Requisito 5](#requisitos) |
+| 2          | Preciso monitorar os custos associados ao processo seletivo.                                          | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-6)  | [Requisito 6](#requisitos) |
+| 3          | No dashboard quero visualizar um card com a taxa de retenção de novos funcionários.                   | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-5)  | [Requisito 7](#requisitos) |
+| 4          | Quero ter uma aplicação estável e confiável (DevOps).                                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-48)  | [Requisito 12](#requisitos) |
+| 5          | Como usuário quero ter um layout responsivo para acessar via celular nas reuniões.                    | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-43) | [Requisito 8](#requisitos) |
 
 </details>
 
@@ -85,8 +83,10 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 
 | Prioridade | História                                                                                          | Jira          | Requisitos                |
 |------------|---------------------------------------------------------------------------------------------------|---------------|---------------------------|
-| 1          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo ou algum outro critério. Se sim, quais cargos/critérios são necessários? | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-8) | [Requisitos](#requisitos) |
-| 2          | Quero poder analisar as tendências e padrões no processo de seleção.                              | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-7) | [Requisitos](#requisitos) |
+| 1          | Precisa melhorar o import dos dados validando a integridade dos mesmos.                           | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-47) | [Requisito 2](#requisitos) |
+| 2          | Quero analisar pelo menos duas tendências e padrões no processo de seleção, e conseguir filtrar por cargo | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) | [Requisitos](#requisitos) |
+| 3          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo e poder alterar a forma dinâmica as permissões | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-8) | [Requisito 9](#requisitos) |
+| 4          | Como usuário preciso ter uma senha segura.                                                        | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-45) | [Requisito 3](#requisitos) |
 
 </details>
 
@@ -95,8 +95,7 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 
 | Prioridade | História                                                                                          | Jira          | Requisitos                |
 |------------|---------------------------------------------------------------------------------------------------|---------------|---------------------------|
-| 1          | Como usuário de RH, quero modificar de forma dinâmica as permissões de acesso dos usuários.       | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-10) | [Requisitos](#requisitos) |
-| 2          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard.                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-9)  | [Requisitos](#requisitos) |
+| 1          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard.                                | [Ver no Jira](https://localhost305.atlassian.net/browse/LOC-9)  | [Requisito 11](#requisitos) |
 
 </details>
 

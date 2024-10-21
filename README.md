@@ -84,7 +84,8 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 | 1          | Quero analisar pelo menos duas tendências e padrões no processo de seleção, e conseguir filtrar por cargo | [Requisito 10](#requisitos) |
 | 2          | Precisa melhorar o import dos dados validando a integridade dos mesmos                           | [Requisito 2](#requisitos) |
 | 3          | Quero ter uma aplicação estável e confiável (DevOps)                                             | [Requisito 12](#requisitos) |
-| 4          | Como usuário preciso ter uma senha segura                                                        | [Requisito 3](#requisitos) |
+| 4          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo e poder alterar a forma dinâmica as permissões | [Requisito 9](#requisitos) |
+
 
 </details>
 
@@ -94,9 +95,10 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 | Prioridade | História                                                                                          | Requisitos                |
 |------------|---------------------------------------------------------------------------------------------------|---------------------------|
 | 1          | Como usuário de RH, quero criar alertas de email de acordo com determinado evento                 | [Requisito 13](#requisitos) |
-| 2          | Como usuário de RH, preciso liberar o acesso de acordo com o cargo e poder alterar a forma dinâmica as permissões | [Requisito 9](#requisitos) |
-| 3          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard                                 | [Requisito 11](#requisitos) |
+| 2          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard                                 | [Requisito 11](#requisitos) |
+| 3          | Como usuário preciso ter uma senha segura                                                        | [Requisito 3](#requisitos) |
 | 4          | Ter opção de exportar para acessar pelo POWER BI                                                  | [Requisito 11](#requisitos) |
+
 
 </details>
 

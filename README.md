@@ -20,7 +20,7 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 ✅ Requisito 9 - Alterar de forma dinâmica as permissões </br>
 ✅ Requisito 10 - Gráficos com previsão de tendências </br>
 ✅ Requisito 11 - Exportar em PDF e CSV dos dados no Dashboard </br>
-✅ Requisito 12 - Ter uma aplicação confiável 
+✅ Requisito 12 - Ter uma aplicação confiável </br>
 ✅ Requisito 13 - Criar alertas de email orientado a eventos </br>
 </br>
 

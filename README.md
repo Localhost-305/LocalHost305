@@ -97,7 +97,6 @@ Essa solução oferece uma visão clara e abrangente do processo seletivo, permi
 | 1          | Como usuário de RH, quero criar alertas de email de acordo com determinado evento                 | [Requisito 13](#requisitos) |
 | 2          | Quero ter a opção de exportar em PDF e CSV dos dados no Dashboard                                 | [Requisito 11](#requisitos) |
 | 3          | Como usuário preciso ter uma senha segura                                                        | [Requisito 3](#requisitos) |
-| 4          | Ter opção de exportar para acessar pelo POWER BI                                                  | [Requisito 11](#requisitos) |
 
 
 </details>

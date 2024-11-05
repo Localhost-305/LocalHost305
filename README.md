@@ -12,15 +12,15 @@ O objetivo da aplicação é desenvolver um dashboard interativo para centraliza
 ✅ Requisito 1 - Dashboard para visualizar os indicadores </br>
 ✅ Requisito 2 - Importar os dados com excel </br>
 ✅ Requisito 3 - Login via e-mail e senha com segurança </br>
-✅ Requisito 4 – Documentação da API </br>
+✅ Requisito (NF) 4 – Documentação da API </br>
 ✅ Requisito 5 - Filtrar e segmentar os dados por vaga </br>
 ✅ Requisito 6 - Monitorar os custos associados ao processo seletivo </br>
 ✅ Requisito 7 - Taxa de retenção de novos funcionários </br>
-✅ Requisito 8 - Layout responsivo para acessar via celular </br>
+✅ Requisito (NF) 8 - Layout responsivo para acessar via celular </br>
 ✅ Requisito 9 - Alterar de forma dinâmica as permissões </br>
 ✅ Requisito 10 - Gráficos com previsão de tendências </br>
 ✅ Requisito 11 - Exportar em PDF e CSV dos dados no Dashboard </br>
-✅ Requisito 12 - Ter uma aplicação confiável </br>
+✅ Requisito (NF) 12 - Ter uma aplicação confiável </br>
 ✅ Requisito 13 - Criar alertas de email orientado a eventos </br>
 </br>
 

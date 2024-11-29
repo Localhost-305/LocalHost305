@@ -13,3 +13,6 @@
 [submodule "localhost-etl"]
 	path = localhost-etl
 	url = https://github.com/Localhost-305/localhost-etl
+[submodule "localhost-monitoring"]
+	path = localhost-monitoring
+	url = https://github.com/Localhost-305/localhost-monitoring.git
